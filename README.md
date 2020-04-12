@@ -1,2 +1,0 @@
-# caption-this-template
-Foi!
