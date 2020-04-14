@@ -2,3 +2,5 @@
 
 <h1 align="center">Treinamento de Ruby on Rails </h1>
 Bem-vindo ao seu repositório para o curso Treinamento de Ruby on Rails. Este repositório será usado durante as diferentes atividades pelas quais eu o guiarei.
+
+Acesse o site: http://lab.seuestagiario.com/
